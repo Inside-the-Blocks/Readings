@@ -26,6 +26,6 @@ Over time, as more L2s come online and blocks carry more blobs, the higher deman
 - https://www.blocknative.com/blog/eip-4844-blobs-and-blob-gas-what-you-need-to-know
 - https://www.cube.exchange/what-is/proto-danksharding
 
-## Postings
+## Offical Postings
 - https://www.linkedin.com/feed/update/urn:li:activity:7401718196933775360
 - https://www.reddit.com/r/InsidetheBlocks/comments/1pcjnpw/repricing_data_availability_why_blob_fees_matter/
