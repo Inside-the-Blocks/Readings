@@ -1,4 +1,4 @@
-# Repricing Data Availability: Why Blob Fees Matter for Ethereum’s Long-Term Economics
+# Repricing Data Availability: <br/> Why Blob Fees Matter for Ethereum’s Long-Term Economics
 > 2025-12-DD
 
 Right now, at the time of this post, blobs are basically free to post (at just 1 wei) because there is no minimum cost attached to them.
