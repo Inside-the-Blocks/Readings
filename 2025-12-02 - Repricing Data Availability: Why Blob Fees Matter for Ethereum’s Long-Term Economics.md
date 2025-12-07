@@ -1,5 +1,5 @@
 # Repricing Data Availability: <br/> Why Blob Fees Matter for Ethereum’s Long-Term Economics
-> 2025-12-DD
+> 2025-12-02
 
 Right now, at the time of this post, blobs are basically free to post (at just 1 wei) because there is no minimum cost attached to them.
 
@@ -25,3 +25,7 @@ Over time, as more L2s come online and blocks carry more blobs, the higher deman
 - https://en.theblockbeats.news/news/60453
 - https://www.blocknative.com/blog/eip-4844-blobs-and-blob-gas-what-you-need-to-know
 - https://www.cube.exchange/what-is/proto-danksharding
+
+## Postings
+- https://www.linkedin.com/feed/update/urn:li:activity:7401718196933775360
+- https://www.reddit.com/r/InsidetheBlocks/comments/1pcjnpw/repricing_data_availability_why_blob_fees_matter/
