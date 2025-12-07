@@ -1,2 +1,1 @@
-# Readings
-Social Media &amp; Blog Postings
+# Social Media &amp; Blog Postings
