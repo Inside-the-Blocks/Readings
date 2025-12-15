@@ -1,6 +1,12 @@
 # Repricing Data Availability: <br/> Why Blob Fees Matter for Ethereum’s Long-Term Economics
 > **2025-12-02**
 
+## Offical Postings
+
+> - [**LinkedIn**](https://www.linkedin.com/pulse/fusaka-goes-live-pushes-ethereum-next-era-triangulum-technologies-f64ne/)
+> - [**Medium**](https://medium.com/inside-the-blocks/fusaka-goes-live-pushes-ethereum-into-the-next-era-60820e354ba5)
+> - Paragraph
+
 > _Fusaka is Ethereum’s second major network upgrade (hard fork) of the year
 > <br/> that went live on December 3, 2025, at mainnet slot 13,164,544 ⛓️_
 
@@ -338,9 +344,3 @@ Fusaka bundles 13 official meta-EIPs, which fall into four main buckets:
 > #ethereum #ETH #Fusaka #FusakaUpgrade
 > #blobs #ZKsync #zkEVM #PeerDAS #DataSampling #Danksharding #supernodes #Testnets #L1 #L2 #Layer2 #L2Scaling #ZKRollups #Rollups
 > #BPO #BPOForks #wei #Glamsterdam #eth_config #ePBS #ModExp #Prividium #WebAuthn #calldata 
-
-## Offical Postings
-
-> - [**LinkedIn**](https://www.linkedin.com/pulse/fusaka-goes-live-pushes-ethereum-next-era-triangulum-technologies-f64ne/)
-> - [**Medium**](https://medium.com/inside-the-blocks/fusaka-goes-live-pushes-ethereum-into-the-next-era-60820e354ba5)
-> - Paragraph
