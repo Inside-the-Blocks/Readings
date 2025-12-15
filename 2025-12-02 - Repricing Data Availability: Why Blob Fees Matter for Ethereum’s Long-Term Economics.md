@@ -1,5 +1,9 @@
 # Repricing Data Availability: <br/> Why Blob Fees Matter for Ethereum’s Long-Term Economics
-> 2025-12-02
+> **2025-12-02**
+>
+> - [**LinkedIn**](https://www.linkedin.com/pulse/fusaka-goes-live-pushes-ethereum-next-era-triangulum-technologies-f64ne/)
+> - [**Medium**](https://medium.com/inside-the-blocks/fusaka-goes-live-pushes-ethereum-into-the-next-era-60820e354ba5)
+> - Paragraph
 
 Fusaka is Ethereum’s second major network upgrade (hard fork) of the year that went live on December 3, 2025, at mainnet slot 13,164,544 ⛓️
 As Ethereum’s Fusaka upgrade went live, it is widely seen as a major boost to the network’s goal of becoming the primary settlement layer for on-chain finance. One of the key improvements is the introduction of PeerDAS, which enables validators to sample small portions of rollup data rather than downloading entire blobs. This reduces bandwidth requirements, keeps node requirements manageable, and helps the network to increase blob capacity by up to 8x. This approach allows for the system to support more rollup activity while maintaining decentralization.
