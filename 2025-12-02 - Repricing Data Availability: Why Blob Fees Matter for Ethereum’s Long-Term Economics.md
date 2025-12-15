@@ -39,7 +39,7 @@ The Auditing:
 - Hosted on Sherlock.
 - No issues severe enough to postpone Fusaka.
 
-*Now, for a deeper understanding of how this all fits together, let’s go over all the EIPs in this upgrade and what they mean for Ethereum:*
+**Now, for a deeper understanding of how this all fits together, let’s go over all the EIPs in this upgrade and what they mean for Ethereum:**
 
 ## Core: Data Availability & Blobs
 The heart of Fusaka is a new DA architecture for L2s.
