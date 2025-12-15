@@ -1,5 +1,5 @@
 # Repricing Data Availability: <br/> Why Blob Fees Matter for Ethereum’s Long-Term Economics
-> 2025-12-02
+> **2025-12-02**
 
 ## Offical Postings
 - [**LinkedIn**](https://www.linkedin.com/feed/update/urn:li:activity:7401718196933775360)
